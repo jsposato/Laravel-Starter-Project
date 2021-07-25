@@ -1,4 +1,7 @@
 # Laravel Start Project
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d6b07687183b456298af9adbda00b77e)](https://app.codacy.com/gh/jsposato/Laravel-Starter-Project?utm_source=github.com&utm_medium=referral&utm_content=jsposato/Laravel-Starter-Project&utm_campaign=Badge_Grade_Settings)
+
 This project includes a base install of Laravel 8 (v8.51.0),
 and common dependencies I use from the start.
 
