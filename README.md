@@ -9,5 +9,6 @@ and common dependencies I use from the start.
 
 
 ## Future Additions
+- Example Entity w/basic tests
 - Terraform to build a basic AWS infra to run on
 
