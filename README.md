@@ -5,6 +5,12 @@
 This project includes a base install of Laravel 8 (v8.51.0),
 and common dependencies I use from the start.
 
+## Usage
+- Clone this repository, run `composer install`, followeb by `npm install && npm run dev`
+- Set your configurations in `.env`
+- Serve up your site with whatever method you typically use
+    - Valet Users: `valet link .`
+
 ## Dependencies
 - [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
 - [Laravel DebugBar](https://github.com/barryvdh/laravel-debugbar)
